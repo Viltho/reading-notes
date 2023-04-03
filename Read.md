@@ -21,3 +21,15 @@
 - Space complexity, on the other hand, refers to the amount of memory or storage space an algorithm requires as a function of the input size. It measures the amount of memory an algorithm needs to store its variables and data structures while executing. Space complexity can also be expressed in terms of Big O notation, which describes the maximum amount of memory an algorithm requires. For example, an algorithm with a space complexity of O(n) will require a memory space proportional to the size of the input data.
 
 - In general, algorithms that have lower time and space complexities are preferred as they are more efficient and use fewer resources. However, there may be trade-offs between time and space complexity depending on the problem being solved and the available hardware. Therefore, understanding time and space complexity is important when designing and analyzing algorithms, especially for large-scale applications.
+
+### In Python, a variable can either hold mutable or immutable data types.
+
+- Immutable data types are objects whose value cannot be modified once they are created. When we perform any operation on an immutable object, Python creates a new object instead of modifying the existing one. Examples of immutable data types in Python include integers, floats, strings, and tuples.
+
+- On the other hand, mutable data types are objects whose value can be changed after they are created. When we perform any operation on a mutable object, it modifies the original object in place. Examples of mutable data types in Python include lists, dictionaries, and sets.
+
+- The main difference between these two types is that when we modify an immutable object, Python creates a new object in memory, which can be inefficient if we are working with large amounts of data. With mutable objects, we can modify the original object directly, which can be more memory-efficient in some cases.
+
+- It's important to note that while immutable objects cannot be modified, we can reassign a variable to a new immutable object with a different value. For example:
+> x = 5  # x is an immutable int object
+> x = 10 # x is now an immutable int object with a value of 10
