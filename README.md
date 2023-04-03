@@ -10,7 +10,7 @@
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-and many more:
+# Table of Contents:
 
 |Resourses    | Some Notes     |
 | :---        |            ---: |
@@ -18,5 +18,3 @@ and many more:
 | Terminal    | [Terminal](./Terminal.md)      |
 | SQL    | [SQL](./SQL.md)      |
 | Technical    | [Technical](./Technical.md)      |
-
-## Things I want to know more about
