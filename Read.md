@@ -31,5 +31,10 @@
 - The main difference between these two types is that when we modify an immutable object, Python creates a new object in memory, which can be inefficient if we are working with large amounts of data. With mutable objects, we can modify the original object directly, which can be more memory-efficient in some cases.
 
 - It's important to note that while immutable objects cannot be modified, we can reassign a variable to a new immutable object with a different value. For example:
-> x = 5  # x is an immutable int object
+> x = 5  # x is an immutable int object and 
 > x = 10 # x is now an immutable int object with a value of 10
+
+- In contrast, with mutable objects, we can modify the values within the object without reassigning the variable. For example:
+> my_list = [1, 2, 3]  # my_list is a mutable list object and
+> my_list.append(4)    # we modify the original object by adding a new item and 
+> print(my_list)       # output: [1, 2, 3, 4]
