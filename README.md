@@ -12,9 +12,11 @@
 
 and many more:
 
-|Resourses    | Summary     | Some Notes     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+|Resourses    | Some Notes     |
+| :---        |            ---: |
+| Ubuntu & Wireframe   | [ubuntu](./Ubuntu.md)   |
+| Terminal    | [Terminal](./Terminal.md)      |
+| SQL    | [SQL](./SQL.md)      |
+| Technical    | [Technical](./Technical.md)      |
 
 ## Things I want to know more about
