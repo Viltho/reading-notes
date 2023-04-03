@@ -35,6 +35,9 @@
 > x = 10 # x is now an immutable int object with a value of 10
 
 - In contrast, with mutable objects, we can modify the values within the object without reassigning the variable. For example:
-> my_list = [1, 2, 3]  # my_list is a mutable list object and
-> my_list.append(4)    # we modify the original object by adding a new item and 
-> print(my_list)       # output: [1, 2, 3, 4]
+my_list = [1, 2, 3]  
+> # my_list is a mutable list object and
+my_list.append(4)   
+> # we modify the original object by adding a new item and 
+print(my_list)       
+> # output: [1, 2, 3, 4]
