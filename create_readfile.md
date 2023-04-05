@@ -14,7 +14,7 @@
 
 > with open('dog_breeds.txt', 'r') as reader:
 
-#### for more information read: ![Link](https://realpython.com/read-write-files-python/)
+#### for more information read: [Link](https://realpython.com/read-write-files-python/)
 
 > Exceptions are a way to declare how errors on python can be handled.
 
