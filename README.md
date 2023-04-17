@@ -22,4 +22,5 @@
 | create and handle files    | [create](./create_readfile.md)      |
 | recursion and classes    | [rec and class](./recur_classes.md)      |
 | Linekd Lists    | [Linked lists](./linked_lists.md)      |
+| Random and more    | [Random and more](./randomandmore.md)      |
 
