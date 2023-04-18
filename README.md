@@ -23,4 +23,4 @@
 | recursion and classes    | [rec and class](./recur_classes.md)      |
 | Linekd Lists    | [Linked lists](./linked_lists.md)      |
 | Random and more    | [Random and more](./randomandmore.md)      |
-
+| Random dice calculation    | [Random dice](./randomcalc.md)      |
