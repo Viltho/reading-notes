@@ -12,10 +12,8 @@ if there are 100,000 trials it will follow the rule :
 
 - Local scope: A variable declared inside a function or a code block has local scope, which means it can only be accessed within that function or code block. Once the function or code block completes execution, the local variable is destroyed, and it cannot be accessed from outside the function or code block.
 
-   >def print_name():
-        name = "Alice"  # Local variable
-        print("Name inside the function:", name)
-
-    print_name()
-
-    print("Name outside the function:", name)  # Raises NameError
+      def print_name():
+          name = "Alice"  # Local variable
+          print("Name inside the function:", name)
+      print_name()
+      print("Name outside the function:", name)  # Raises NameError
