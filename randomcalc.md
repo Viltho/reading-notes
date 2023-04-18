@@ -6,7 +6,7 @@ the probability of rolling a dice and getting 6 is 1/6
 
 if there are 100,000 trials it will follow the rule : 
 
-  > (5/6)^n
+      (5/6)^n
 
 - In Python, variable scope refers to the area of a program where a particular variable is accessible and can be referenced. Python has two main types of variable scope: local scope and global scope.
 
