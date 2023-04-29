@@ -24,3 +24,4 @@
 | Linekd Lists    | [Linked lists](./linked_lists.md)      |
 | Random and more    | [Random and more](./randomandmore.md)      |
 | Random dice calculation    | [Random dice](./randomcalc.md)      |
+| list comprehension    | [list comp](./listcomp.md)      |
