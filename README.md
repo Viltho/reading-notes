@@ -26,3 +26,4 @@
 | Random dice calculation    | [Random dice](./randomcalc.md)      |
 | list comprehension    | [list comp](./listcomp.md)      |
 | dunder and more    | [methods](./dnm.md)      |
+| stacks and queue    | [stacks and queue](./snq.md)      |
