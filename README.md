@@ -29,3 +29,4 @@
 | stacks and queue    | [stacks and queue](./snq.md)      |
 | Jupyter and Numpy     | [Jupyter and Numpy](./jnn.md)      |
 | Pandas     | [Pandas](./bnw.md)      |
+| Linear Regression using SciKit     | [LG](./lg.md)      |
