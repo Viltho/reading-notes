@@ -30,3 +30,4 @@
 | Jupyter and Numpy     | [Jupyter and Numpy](./jnn.md)      |
 | Pandas     | [Pandas](./bnw.md)      |
 | Linear Regression using SciKit     | [LG](./lg.md)      |
+| Matplotlib     | [MLP](./mlp.md)      |
