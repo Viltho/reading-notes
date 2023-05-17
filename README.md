@@ -31,3 +31,4 @@
 | Pandas     | [Pandas](./bnw.md)      |
 | Linear Regression using SciKit     | [LG](./lg.md)      |
 | Matplotlib     | [MLP](./mlp.md)      |
+| Trees     | [Trees](./tree.md)      |
