@@ -32,3 +32,4 @@
 | Linear Regression using SciKit     | [LG](./lg.md)      |
 | Matplotlib     | [MLP](./mlp.md)      |
 | Trees     | [Trees](./tree.md)      |
+| Serverless functions and more     | [SF and more](./sfam.md)      |
