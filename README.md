@@ -33,3 +33,4 @@
 | Matplotlib     | [MLP](./mlp.md)      |
 | Trees     | [Trees](./tree.md)      |
 | Serverless functions and more     | [SF and more](./sfam.md)      |
+| Xpath, webscraping in st. and dyn.      | [st and dyn web](./standdyn.md)      |
