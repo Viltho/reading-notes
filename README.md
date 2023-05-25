@@ -34,3 +34,5 @@
 | Trees     | [Trees](./tree.md)      |
 | Serverless functions and more     | [SF and more](./sfam.md)      |
 | Xpath, webscraping in st. and dyn.      | [st and dyn web](./standdyn.md)      |
+| Caesar Cipher and more      | [CC&M](./ccam.md)      |
+| Regex and Shutil usage      | [Regex & Shutil](./regexshutil.md)      |
