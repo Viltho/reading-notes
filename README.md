@@ -36,3 +36,4 @@
 | Xpath, webscraping in st. and dyn.      | [st and dyn web](./standdyn.md)      |
 | Caesar Cipher and more      | [CC&M](./ccam.md)      |
 | Regex and Shutil usage      | [Regex & Shutil](./regexshutil.md)      |
+| DJango & Tailwind CSS      | [DJango and tailwind](./djandtwcss.md)      |
