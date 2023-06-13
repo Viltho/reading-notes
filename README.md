@@ -37,3 +37,4 @@
 | Caesar Cipher and more      | [CC&M](./ccam.md)      |
 | Regex and Shutil usage      | [Regex & Shutil](./regexshutil.md)      |
 | DJango & Tailwind CSS      | [DJango and tailwind](./djandtwcss.md)      |
+| DJango methods and tools      | [DJango methods and admin](./djmeth.md)      |
