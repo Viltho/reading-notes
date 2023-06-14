@@ -38,3 +38,4 @@
 | Regex and Shutil usage      | [Regex & Shutil](./regexshutil.md)      |
 | DJango & Tailwind CSS      | [DJango and tailwind](./djandtwcss.md)      |
 | DJango methods and tools      | [DJango methods and admin](./djmeth.md)      |
+| DJango forms      | [DJango forms](./djforms.md)      |
