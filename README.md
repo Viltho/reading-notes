@@ -40,3 +40,4 @@
 | DJango methods and tools      | [DJango methods and admin](./files/djmeth.md)      |
 | DJango forms      | [DJango forms](./files/djforms.md)      |
 | DJangoX      | [DJangoX](./files/djx.md)      |
+| Hash Tables      | [Hash Tables](./files/htables.md)      |
