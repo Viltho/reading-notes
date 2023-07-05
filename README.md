@@ -43,3 +43,4 @@
 | Hash Tables      | [Hash Tables](./files/htables.md)      |
 | Docker      | [Docker](./files/docker.md)      |
 | Django Crud system      | [Django Crud](./files/djcrud.md)      |
+| JSON web tokens      | [JWT](./files/jwtokens.md)      |
