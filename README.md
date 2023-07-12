@@ -45,3 +45,4 @@
 | Django Crud system      | [Django Crud](./files/djcrud.md)      |
 | JSON web tokens      | [JWT](./files/jwtokens.md)      |
 | Django settings and CORS      | [djcors](./files/djcors.md)      |
+| graphs      | [graphs](./files/graphs.md)      |
