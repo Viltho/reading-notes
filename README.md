@@ -47,3 +47,4 @@
 | Django settings and CORS      | [djcors](./files/djcors.md)      |
 | graphs      | [graphs](./files/graphs.md)      |
 | DSA      | [DSA](./files/dsanda.md)      |
+| ES6      | [ES6](./files/essix.md)      |
