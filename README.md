@@ -51,3 +51,4 @@
 | States on react      | [state](./files/state.md)      |
 | React context      | [context](./files/context.md)      |
 | Next Routing      | [routing](./files/routing.md)      |
+| Ethics and more topics      | [eandm](./files/eandm.md)      |
